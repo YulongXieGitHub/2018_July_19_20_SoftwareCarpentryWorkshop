@@ -1,0 +1,14 @@
+2018 July 19-20 Software Carpentry Workshop
+
+July 19, Morning: Unix shell
+July 19, afternoon: Python
+July 20, Morning: Python
+July 20: afternoon: git
+
+
+To create a git repository, at least there are two ways:
+
+(1) in a directory of the local machine, "git iit" to create a git reporsitory
+    then go to github, to create a remote repository
+
+    
