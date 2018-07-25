@@ -6,9 +6,31 @@ July 20, Morning: Python
 July 20: afternoon: git
 
 
+
+Useful links:
+
+https://pnnl-compbio.github.io/2018-07-19-PNNL-SWC/#setup
+https://pad.carpentries.org/2018-07-19-PNNL-SW://pad.carpentries.org/2018-07-19-PNNL-SWC
+http://swcarpentry.github.io/shell-novice/reference/
+https://swcarpentry.github.io/python-novice-gapminder/reference/
+https://swcarpentry.github.io/git-novice/reference
+
+
+If web links does not work, remove "Reference" in the URL should fix the problems.
+
+
+
 To create a git repository, at least there are two ways:
 
-(1) in a directory of the local machine, "git iit" to create a git reporsitory
-    then go to github, to create a remote repository
+(1) in a directory "2018_July_19_20_SoftwareCarpentryWorkshop" of the local machine, "git init" to create a git reporsitory
+    commit any files in the directory.
+    then go to github, create a new remote repository "2018_July_19_20_SoftwareCarpentryWorkshop".  Github automatically prompts the steps to complete the creation of the repository.
+
+    In this case, we go back to local machine and do the following:
+
+    "git remote add origin https://github.com/YulongXieGitHub/2018_July_19_20_SoftwareCarpentryWorkshop.git"
+    "git push -u origin master"
+
+
 
     
